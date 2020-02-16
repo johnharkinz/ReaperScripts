@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Drop Named Markers" commit="a0fc838e7e2be5b4489bd28d26bf104effa3ca01">
+  <category name="JH Drop Named Markers Bundle">
+    <reapack name="JH Drop BRIDGE marker at play cursor.lua" type="script" desc="JH Drop BRIDGE marker at play cursor">
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20BRIDGE%20marker%20at%20play%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JH Drop CHORUS marker at play cursor.lua" type="script" desc="JH Drop CHORUS marker at play cursor">
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20CHORUS%20marker%20at%20play%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JH Drop END marker at play cursor.lua" type="script" desc="JH Drop END marker at play cursor">
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20END%20marker%20at%20play%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JH Drop INTRO marker at play cursor.lua" type="script" desc="JH Drop INTRO marker at play cursor">
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20INTRO%20marker%20at%20play%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JH Drop named marker function.lua" type="script" desc="JH Drop named marker">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Quite simply drops a marker with a predefined name. Customize the names by opening a script and updating the value that name= is set with. For example make a copy of a script, update this code in the script file with the name you want to give your marker, rename the script so it makes sense to you, load it in to the actions list, give it a keystroke and then just just play your project and drop meaningful markers.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 -- CUSTOM MARKER NAME HERE\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 local name = "Bridge"\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20named%20marker%20function.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JH Drop OUTRO marker at play cursor.lua" type="script" desc="JH Drop OUTRO marker at play cursor">
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20OUTRO%20marker%20at%20play%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JH Drop PRE-CH marker at play cursor.lua" type="script" desc="JH Drop PRE-CH marker at play cursor">
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20PRE-CH%20marker%20at%20play%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JH Drop VERSE marker at play cursor.lua" type="script" desc="JH Drop VERSE marker at play cursor">
+      <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/johnharkinz/ReaperScripts/raw/a0fc838e7e2be5b4489bd28d26bf104effa3ca01/JH%20Drop%20Named%20Markers%20Bundle/JH%20Drop%20VERSE%20marker%20at%20play%20cursor.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
