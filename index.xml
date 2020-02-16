@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Drop Named Markers" commit="a0fc838e7e2be5b4489bd28d26bf104effa3ca01">
+<index version="1" name="JH ReaScripts" commit="a0fc838e7e2be5b4489bd28d26bf104effa3ca01">
   <category name="JH Drop Named Markers Bundle">
     <reapack name="JH Drop BRIDGE marker at play cursor.lua" type="script" desc="JH Drop BRIDGE marker at play cursor">
       <version name="1.0" author="John Harkins" time="2020-02-16T14:22:54Z">
